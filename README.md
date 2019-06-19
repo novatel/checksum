@@ -1,7 +1,7 @@
 <H1>Checksum Example</H1>
-This repository contains example code illustrating a potential approach to computing checksums to verify that a NovAtel GNSS receiver message contains the intended data.<BR />
+<p>This repository contains example code illustrating a potential approach to computing checksums to verify that a NovAtel GNSS receiver message contains the intended data.</p>
 
-This is offered under the MIT license.
+<p>This is offered under the MIT license.</p>
 
 <BR /><BR />
 <H2>Related</H2>
