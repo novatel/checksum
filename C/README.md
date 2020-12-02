@@ -32,6 +32,6 @@ Windows builds require the Microsoft C/C++ compiler that's freely bundled with V
 <OL>
 <LI>Install Visual Studio from here: https://visualstudio.microsoft.com/</LI>
 <LI>Open the x64 Native Tools Command Prompt and change directories to where the code is.</LI>
-</OL>
-3. Run the build.bat file to build the checkCrcAscii program. Note that the cl compiler cannot build the present version of the bulkCrcAscii program. 
-This program can be run on Windows, from within the Linux Subsystem, following the Unix instructions.
+<LI>Run the build.bat file to build the checkCrcAscii program. Note that the cl compiler cannot build the present version of the bulkCrcAscii program. 
+This program can be run on Windows, from within the Linux Subsystem, following the Unix instructions.</LI>
+</OL> 
