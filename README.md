@@ -5,7 +5,6 @@
 
 <p>This is offered under the MIT license.</p>
 
-<BR /><BR />
 <H2>Related</H2>
 <UL>
 <LI><a href="https://docs.novatel.com/OEM7/Content/Messages/32_Bit_CRC.htm">NovAtel Documentation Portal - 32bit CRC</a></LI>
